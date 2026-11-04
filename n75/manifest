@@ -1,0 +1,14 @@
+N75-NETOTA-V2
+device=52142A000755A5
+model=N75-ARM1176
+sequence=1793613627
+version=0.5.8.86-HWTEST-LTE-01
+size=364876
+sha256=edf1c33d76ba5f7b0f494c6b34ae80498de1b2864cee9037867a2e1399b9d6a1
+baseline=58267bc4a38ac22b5c19ec934069338bb7a69e56ff73a966d1d50d799ba2b065
+loader=ec744f22fe51fe676f7c1c0f84be9d082012a2d8a6548b58a4befaec2c463075
+channel=hwtest
+trial_seconds=25
+issued=1793789007
+expires=1793875407
+end
